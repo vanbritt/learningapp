@@ -1,0 +1,7 @@
+C:\Users\Vanbritt\Documents\EDUCATION\AZURE\AZ-204\projects\learningapp4\bin\Publish\learningapp4.exe
+C:\Users\Vanbritt\Documents\EDUCATION\AZURE\AZ-204\projects\learningapp4\bin\Publish\appsettings.Development.json
+C:\Users\Vanbritt\Documents\EDUCATION\AZURE\AZ-204\projects\learningapp4\bin\Publish\appsettings.json
+C:\Users\Vanbritt\Documents\EDUCATION\AZURE\AZ-204\projects\learningapp4\bin\Publish\learningapp4.dll
+C:\Users\Vanbritt\Documents\EDUCATION\AZURE\AZ-204\projects\learningapp4\bin\Publish\learningapp4.deps.json
+C:\Users\Vanbritt\Documents\EDUCATION\AZURE\AZ-204\projects\learningapp4\bin\Publish\learningapp4.runtimeconfig.json
+C:\Users\Vanbritt\Documents\EDUCATION\AZURE\AZ-204\projects\learningapp4\bin\Publish\learningapp4.pdb
